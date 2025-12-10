@@ -1,0 +1,27 @@
+#kaki{
+    background-color:blue
+}
+#maki{
+    background-color:red
+}
+#tarolo{
+    background-color:white;
+    color:yellow;
+    width:80%;/* widthet miundig szazalekosan add meg */
+    max-width: 800px;
+    margin:auto; /* a tarolo kozepre kerul */
+    padding: 10px;
+}
+#menu a{
+    text-decoration: none;
+    color:purple;
+    border:2px solid lightseagreen;
+    background-color: lightseagreen;
+    padding:5px 10px 5px 10px;
+    margin:10px;
+    border-radius:5px;
+}
+#menu a:hover{
+    color:yellow;
+    background-color:red;
+}
